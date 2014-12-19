@@ -24,6 +24,7 @@ public class RobotTemplate extends IterativeRobot {
      */
     public void robotInit() {
         //IT WORKED
+        int worked = 0;
     }
 
     /**
