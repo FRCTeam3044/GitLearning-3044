@@ -32,8 +32,6 @@ public class RobotTemplate extends IterativeRobot {
      */
     public void autonomousPeriodic() {
 
-        
-        asdfkjasd;
     }
 
     /**
